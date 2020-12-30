@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+Run this command for integrated tailwindcss to react js
+### `npm build:css`
+
 ### `npm start`
 
 Runs the app in the development mode.\
